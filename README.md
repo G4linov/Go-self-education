@@ -21,6 +21,7 @@
 3. [ ] (les3) Интерфейсы и утиная типизация 
 4. [ ] (les4) Пустой интерфейс 
 5. [ ] (les5) Композитное наследование 
+[Structures repo](https://github.com/G4linov/Go-struct)
 ### Асинхронность (Async)
 1. [ ] (les1) Goroutines 
 2. [ ] (les2) Go sheduler 
