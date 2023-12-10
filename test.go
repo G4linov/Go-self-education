@@ -43,11 +43,5 @@ func merge(nums1 []int, n int, nums2 []int, m int) []int {
 }
 
 func main() {
-	num := []int{3, 2, 2, 3}
-	removeElement(num, 3)
-	sad := []int{}
-	fmt.Println(len(sad))
-	for k := range sad {
-		fmt.Println(len(sad), k)
-	}
+	
 }
