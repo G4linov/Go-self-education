@@ -2,18 +2,18 @@
 ## План обучения:
 ### Подготовка окружения. Основы языка (Basics)
 1. [x] [Переменные, типы данных](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les1/main.go)
-2. [x] (les2) Указатели в Go   
-3. [x] (les3) Слайсы  
-4. [x] (les4) Map’ы в Go  
-5. [x] (les5) Конструкции языка и функции 
-6. [x] (les6) defer - обработка выхода из функции  
-7. [x] (les7) Panic и их обработка  
-8. [x] (les8) Обработка ошибок  
+2. [x] [Указатели в Go](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les2/main.go)  
+3. [x] [Слайсы](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les3/main.go)
+4. [x] [Map’ы в Go](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les4_hm/main.go)
+5. [x] [Конструкции языка и функции](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les5/main.go) 
+6. [x] [defer - обработка выхода из функции](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les6/main.go)
+7. [x] [Panic и их обработка](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les7/main.go)
+8. [x] [Обработка ошибок](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les8/main.go)  
 ### Модули и пакеты (Modules_and_packages)
-1. [x] (les1) Области видимости, инициализация через init() 
-2. [x] (les2) Работа с зависимостями, go mod 
-3. [x] (les3) Создание модулей и их версионирование 
-4. [x] (les4) layout проекта (структура проекта) 
+1. [x] Области видимости, инициализация через init() 
+2. [x] Работа с зависимостями, go mod 
+3. [x] Создание модулей и их версионирование 
+4. [x] layout проекта (структура проекта) 
 ### Структуры и интерфейсы (Structures_and_interfaces)
 1. [x] (les1) Структуры в Go 
 2. [x] (les2) Методы структур 
