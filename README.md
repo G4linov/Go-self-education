@@ -1,6 +1,6 @@
 # Go selfeducation.
 ## План обучения:
-### Подготовка окружения. Основы языка (Basics)
+### Подготовка окружения. Основы языка
 1. [x] [Переменные, типы данных](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les1/main.go)
 2. [x] [Указатели в Go](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les2/main.go)  
 3. [x] [Слайсы](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les3/main.go)
@@ -9,19 +9,18 @@
 6. [x] [defer - обработка выхода из функции](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les6/main.go)
 7. [x] [Panic и их обработка](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les7/main.go)
 8. [x] [Обработка ошибок](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les8/main.go)  
-### Модули и пакеты (Modules_and_packages)
+### Модули и пакеты
 1. [x] Области видимости, инициализация через init() 
 2. [x] Работа с зависимостями, go mod 
 3. [x] Создание модулей и их версионирование 
 4. [x] layout проекта (структура проекта) 
-### Структуры и интерфейсы (Structures_and_interfaces)
+### Структуры и интерфейсы [repo](https://github.com/G4linov/Go-struct)
 1. [x] Структуры в Go 
 2. [x] Методы структур 
 3. [x] Интерфейсы и утиная типизация 
 4. [x] Пустой интерфейс 
 5. [x] Композитное наследование  
-[Structures repo](https://github.com/G4linov/Go-struct)
-### Асинхронность (Async)
+### Асинхронность
 1. [ ] (les1) Goroutines 
 2. [ ] (les2) Go sheduler 
 3. [ ] (les3) Race condition 
@@ -30,14 +29,14 @@
 6. [ ] (les6) sync.Pool  
 7. [ ] (les7) Каналы ч.1. Deadlocks 
 8. [ ] (les8) Каналы ч.2. Context 
-### Тестирование, бенчмарки и профилирование (Testing) 
+### Тестирование, бенчмарки и профилирование
 1. [ ] (les1) Unit-тестирование в Go  
 2. [ ] (les2) Моки, стабы и генерация через GoMock 
 3. [ ] (les3) Table driven test vs closure driven tests 
 4. [ ] (les4) Test coverage 
 5. [ ] (les5) Benchmarks 
 6. [ ] (les6) Профилирование с pprof 
-### Кодогерация (Code_generation)
+### Кодогерация
 1. [ ] (les1) Рефлексия 
 2. [ ] (les2) AST 
 3. [ ] (les3) Templates 
