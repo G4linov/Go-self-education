@@ -1,7 +1,7 @@
 # Go selfeducation.
 ## План обучения:
 ### Подготовка окружения. Основы языка (Basics)
-1. [x] (les1) Переменные, типы данных
+1. [x] [Переменные, типы данных](https://github.com/G4linov/Go-self-education/blob/main/src/Basics/les1/main.go)
 2. [x] (les2) Указатели в Go   
 3. [x] (les3) Слайсы  
 4. [x] (les4) Map’ы в Go  
