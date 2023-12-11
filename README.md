@@ -21,7 +21,7 @@
 4. [x] Пустой интерфейс 
 5. [x] Композитное наследование  
 ### Асинхронность [Репозиторий обучения](https://github.com/G4linov/Go-async)
-1. [ ] (les1) Goroutines 
+1. [x] (les1) Goroutines 
 2. [ ] (les2) Go sheduler 
 3. [ ] (les3) Race condition 
 4. [ ] (les4) Пакеты sync и atomic 
