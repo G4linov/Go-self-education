@@ -22,8 +22,8 @@
 5. [x] Композитное наследование  
 ### Асинхронность [Репозиторий обучения](https://github.com/G4linov/Go-async)
 1. [x] (les1) Goroutines 
-2. [ ] (les2) Go sheduler 
-3. [ ] (les3) Race condition 
+2. [x] (les2) Go sheduler 
+3. [x] (les3) Race condition 
 4. [ ] (les4) Пакеты sync и atomic 
 5. [ ] (les5) Пакет errgroup  
 6. [ ] (les6) sync.Pool  
