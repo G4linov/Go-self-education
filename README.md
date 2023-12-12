@@ -27,8 +27,8 @@
 4. [x] (les4) Пакеты sync и atomic 
 5. [ ] (les5) Пакет errgroup  
 6. [ ] (les6) sync.Pool  
-7. [ ] (les7) Каналы ч.1. Deadlocks 
-8. [ ] (les8) Каналы ч.2. Context 
+7. [x] (les7) Каналы ч.1. Deadlocks 
+8. [x] (les8) Каналы ч.2. Context 
 ### Тестирование, бенчмарки и профилирование
 1. [ ] (les1) Unit-тестирование в Go  
 2. [ ] (les2) Моки, стабы и генерация через GoMock 
