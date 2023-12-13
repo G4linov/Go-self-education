@@ -29,13 +29,13 @@
 6. [ ] sync.Pool  
 7. [x] Каналы ч.1. Deadlocks 
 8. [x] Каналы ч.2. Context 
-### Тестирование, бенчмарки и профилирование
-1. [ ] (les1) Unit-тестирование в Go  
-2. [ ] (les2) Моки, стабы и генерация через GoMock 
-3. [ ] (les3) Table driven test vs closure driven tests 
-4. [ ] (les4) Test coverage 
-5. [ ] (les5) Benchmarks 
-6. [ ] (les6) Профилирование с pprof 
+### Тестирование, бенчмарки и профилирование [Репозиторий обучения](https://github.com/G4linov/Go-testing)
+1. [ ] Unit-тестирование в Go  
+2. [ ] Моки, стабы и генерация через GoMock 
+3. [ ] Table driven test vs closure driven tests 
+4. [ ] Test coverage 
+5. [ ] Benchmarks 
+6. [ ] Профилирование с pprof 
 ### Кодогерация
 1. [ ] (les1) Рефлексия 
 2. [ ] (les2) AST 
