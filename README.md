@@ -30,7 +30,7 @@
 7. [x] Каналы ч.1. Deadlocks 
 8. [x] Каналы ч.2. Context 
 ### Тестирование, бенчмарки и профилирование [Репозиторий обучения](https://github.com/G4linov/Go-testing)
-1. [ ] Unit-тестирование в Go  
+1. [x] Unit-тестирование в Go  
 2. [ ] Моки, стабы и генерация через GoMock 
 3. [ ] Table driven test vs closure driven tests 
 4. [ ] Test coverage 
